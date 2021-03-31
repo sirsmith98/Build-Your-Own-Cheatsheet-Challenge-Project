@@ -85,3 +85,41 @@
   </main>
 </body>
 </html>
+
+
+body {
+  background-color: lavender;
+  font-family: Garamond;
+  text-align: center;
+}
+
+h1 {
+  color: navy;
+}
+
+table {
+  background-color: aliceblue;
+  border: 2px solid darkslateblue;
+  margin: 4em;
+}
+
+thead {
+  background-color: lightskyblue;
+}
+
+th {
+  color: navy;
+  padding: 4px;
+}
+
+td {
+  padding:1px;
+  border-top: 1px solid darkslateblue;
+  text-align: left;
+}
+
+.syntax {
+  font-family: monospace;
+  color: royalblue;
+}
+
